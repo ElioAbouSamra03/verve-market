@@ -329,5 +329,3 @@ finished commercial platform. Documented trade-offs:
   is a clearly-marked stub for a future milestone.
 - **Product image storage.** Images are served from Unsplash URLs for demo purposes;
   a production version would use S3 + CloudFront.
-
----
