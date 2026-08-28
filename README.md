@@ -331,16 +331,3 @@ finished commercial platform. Documented trade-offs:
   a production version would use S3 + CloudFront.
 
 ---
-
-## Screenshots
-
-_Add screenshots of the homepage, product listing (with filters), product detail page,
-cart, and wishlist here before submission — e.g._
-
-```
-docs/screenshots/homepage.png
-docs/screenshots/product-listing.png
-docs/screenshots/product-detail.png
-docs/screenshots/cart.png
-docs/screenshots/wishlist.png
-```
