@@ -35,7 +35,6 @@ writes, not a separate app or database.
 - [Environment variables](#environment-variables)
 - [Installation](#installation)
 - [Known limitations / production roadmap](#known-limitations--production-roadmap)
-- [Screenshots](#screenshots)
 
 ---
 
